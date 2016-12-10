@@ -1,3 +1,4 @@
+echo "Some work"
 echo "Starting..."
 for file in "$@"
 do
