@@ -1,3 +1,4 @@
+echo "Run Python script in a loop from BASH shell"
 echo "Building plots for genom data"
 echo "Starting..."
 for file in "$@"
